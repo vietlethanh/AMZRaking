@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="690E3394-F405-4602-B2BF-DDF149A4E874" ModuleId="AMZRaking.API" />
+  <Module PersistentId="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Http" />
+</Modules>
