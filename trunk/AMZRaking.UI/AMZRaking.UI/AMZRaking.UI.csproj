@@ -241,7 +241,9 @@
     <Content Include="Content\themes\base\tooltip.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="package.json" />
     <None Include="Scripts\jquery-2.2.0.intellisense.js" />
+    <Content Include="gulpfile.js" />
     <Content Include="Scripts\jquery-2.2.0.js" />
     <Content Include="Scripts\jquery-2.2.0.min.js" />
     <Content Include="Scripts\jquery-2.2.0.min.map" />
